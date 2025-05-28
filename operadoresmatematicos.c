@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//operador aritimetico
+
 int main(){
    /*
    soma (+)
